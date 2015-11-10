@@ -1,19 +1,14 @@
 {
-  "name": "foundationpress",
-  "title": "FoundationPress",
+  "name": "akio",
+  "title": "akio_theme",
   "version": "1.7.0",
-  "description": "FoundationPress is a WordPress starter theme based on Foundation 5 by Zurb",
+  "description": "a.k.a danferth theme built on FoundationPress",
   "keywords": [
-    "FoundationPress",
+    "akio",
     "WordPress",
-    "starter theme",
-    "Foundation",
-    "semantic",
-    "mobile first",
-    "customizable",
-    "responsive"
+    "theme"
   ],
-  "homepage": "http://foundationpress.olefredrik.com/",
+  "homepage": "http://akio.us/",
   "bugs": "https://github.com/olefredrik/FoundationPress/issues",
   "license": "MIT",
   "main": "Gruntfile.js",
