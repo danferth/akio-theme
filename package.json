@@ -9,12 +9,12 @@
     "theme"
   ],
   "homepage": "http://akio.us/",
-  "bugs": "https://github.com/olefredrik/FoundationPress/issues",
+  "bugs": "https://github.com/danferth/akio-theme/issues",
   "license": "MIT",
   "main": "Gruntfile.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/olefredrik/FoundationPress.git"
+    "url": "https://github.com/danferth/akio-theme.git"
   },
   "devDependencies": {
     "autoprefixer": "^6.1.0",
